@@ -1,0 +1,4 @@
+requests
+langchain==0.0.240
+openai
+pymongo
